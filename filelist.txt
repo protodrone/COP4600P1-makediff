@@ -1,0 +1,4 @@
+/usr/src/servers/pm/table.c
+/usr/src/include/minix/callnr.h
+/usr/src/servers/pm/proto.h
+/usr/src/servers/pm/Makefile
