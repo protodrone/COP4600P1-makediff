@@ -1,5 +1,13 @@
 #!/bin/sh
-
+#
+#    makediffv2.sh
+#    Warren Brown 20171006
+#    University of Florida Fall 2017 COP4600 Project 1
+#
+#	This work is licensed under a 
+#	Creative Commons Attribution 4.0 International License
+#	http://creativecommons.org/licenses/by/4.0/
+#
 TEMPFILES="sedtemp.txt newfiles.txt newfilestemp.txt existingfilesorig.txt existingfiles.txt existfilediffstub.txt"
 
 if [ -e p1diff.txt ]
